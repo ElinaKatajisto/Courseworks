@@ -1,9 +1,11 @@
 **README for Elina Katajisto's Personal Website**
 
-Welcome to my personal website! This site serves as an introduction to my professional background, skills, and projects. Here's a brief overview:
+Welcome to my project! You can visit my website here: https://elinakatajisto.github.io/Courseworks/
+
+Here's a brief overview:
 
 **Overview:**
-This website is designed to showcase my expertise, experience, and passion for digital service engineering. It includes the following sections:
+This website is designed to showcase an introduction to my professional background, skills, and passions. It includes the following sections:
 
 Home: A brief introduction to who I am and what I do.
 About Me: More detailed information about my background, interests, and professional journey.
